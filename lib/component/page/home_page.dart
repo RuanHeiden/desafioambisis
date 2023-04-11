@@ -1,8 +1,5 @@
-import 'package:calendar_date_picker2/calendar_date_picker2.dart';
-import 'package:date_time_picker/date_time_picker.dart';
 import 'package:desafioambisis/component/provider/filtro_date_provider.dart';
 import 'package:desafioambisis/component/widget/container_base_l.dart';
-import 'package:desafioambisis/component/widget/button_s.dart';
 import 'package:desafioambisis/component/widget/home_page_widgets/container_filtro.dart';
 import 'package:desafioambisis/component/widget/home_page_widgets/container_grafico_barra_horizoantal.dart';
 import 'package:desafioambisis/component/widget/home_page_widgets/grafico.dart';
@@ -12,7 +9,6 @@ import 'package:desafioambisis/core/modals/esg.dart';
 import 'package:desafioambisis/main.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:syncfusion_flutter_charts/charts.dart';
 import 'package:desafioambisis/component/const/const_color.dart';
 
 class HomePage extends StatefulWidget {
