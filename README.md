@@ -25,18 +25,8 @@ syncfusion_flutter_charts: ^21.1.38
 
 - Orientações de instalação e execução;
 
-Para a instalação do projeto em seu dispositivo local, faça download do arquivo (app-release.apk) que está na pasta (apk) presente neste repositório git
+Para a instalação do projeto em seu dispositivo local, faça download do arquivo (app-release.apk) que está na pasta (apk) presente neste repositório git.
+
 Aceite todos os termos e abra o aplicativo.
+
 Assim que o aplicativo estiver aberto, pressione o botão flutuante verde com um icone de disquete para fazer a primeira recarga de dados do aplicativo.
-
-<!-- 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference. -->
